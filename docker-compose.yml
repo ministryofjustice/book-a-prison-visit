@@ -1,10 +1,10 @@
 version: "3"
 services:
-  hmpps-template-kotlin:
+  book-a-prison-visit:
     build:
       context: .
     network_mode: "host"
-    container_name: hmpps-template-kotlin
+    container_name: book-a-prison-visit
     ports:
       - "8081:8080"
     healthcheck:
