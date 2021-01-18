@@ -1,10 +1,10 @@
 info.app:
-  name: HMPPS Template Kotlin
+  name: Book A Prison Visit
   version: 1.0
 
 spring:
   application:
-    name: hmpps-template-kotlin
+    name: book-a-prison-visit
   codec:
     max-in-memory-size: 10MB
 
